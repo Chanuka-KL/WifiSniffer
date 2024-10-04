@@ -16,7 +16,7 @@ Wi-Fi Network Sniffer is a Python-based tool that captures and analyzes packets 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Chanuka-KL/WI-FI-Network-Sniffer.git
+   git clone https://github.com/Chanuka-KL/WifiSniffer.git
    cd WI-FI-Network-Sniffer
    ```
 
